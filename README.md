@@ -1,4 +1,4 @@
 # TemplateProject
 Simple CMake Template Project
-  C++
-  Boost Library
+* C++
+* Boost Library
